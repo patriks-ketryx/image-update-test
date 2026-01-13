@@ -4,4 +4,4 @@ itemType: Software Item Spec
 ---
 
 Cool Cats
-![CAT](cats.webp)
+![CAT](./cats.webp)
