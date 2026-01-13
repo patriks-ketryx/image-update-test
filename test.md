@@ -3,5 +3,5 @@ itemId: id-image-update-test
 itemType: Software Item Spec
 ---
 
-Cool Cat
+Cool Cats
 ![CAT](cats.webp)
